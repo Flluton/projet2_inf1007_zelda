@@ -5,7 +5,7 @@ dans *The Legend of Zelda: Breath of the Wild*, à partir de sa composition (via
 champignons, assaisonnements), de son mode de cuisson, d'un effet spécial et de la lune de sang.
 Un modèle de forêt aléatoire est entraîné une fois, sauvegardé, puis chargé par l'application.
 
-**Équipe :** [À COMPLÉTER : noms des deux membres] — Polytechnique Montréal, INF1007, session A2026.
+**Équipe :** Paul Kanengieser 2456864 et Otsem-Pieurix Medegan 2461487— Polytechnique Montréal, INF1007, session A2026.
 
 ## Jeu de données
 
