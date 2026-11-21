@@ -116,8 +116,6 @@ Couverture mesurée avec `coverage` : **57 % au total** ; environ **92 %** si l'
 
 ## Références consultées
 
-[À COMPLÉTER avec les pages réellement consultées. Pistes :]
-
 - pandas : <https://pandas.pydata.org/docs/reference/api/pandas.read_csv.html>
 - scikit-learn : <https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html>
 - Tkinter : <https://docs.python.org/3/library/tkinter.html>
