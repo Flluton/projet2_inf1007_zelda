@@ -1,7 +1,7 @@
 # Journal d'utilisation de l'IA
 
 Outils utilisés : **Claude** (Anthropic) et **Gemini** (Google). Nous restons responsables de chaque ligne remise.
-Les cases [À COMPLÉTER] sont à remplir par l'équipe, car elles dépendent de ce que vous avez réellement fait.
+
 
 | # | Outil | Ce que nous avons demandé | Réponse reçue | Vérification faite | Décision |
 |---|---|---|---|---|---|
